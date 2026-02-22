@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "YouTubeテーマソング２",
+  "base_artist": "HIKAKIN & SEIKIN",
+  "createdAt": "2026-02-22T16:59:56.138500Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YouTubeテーマソング2",
+      "artist": "HIKAKIN & SEIKIN",
+      "has_synced": false,
+      "path": "select/pl_01_YouTubeテーマソング2_HIKAKIN_&_SEIKIN.txt"
+    }
+  ]
+}
